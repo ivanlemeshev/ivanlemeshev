@@ -10,7 +10,7 @@
     <tr class="odd">
     <td style="text-align: center;"><a href="https://www.linkedin.com/in/ivanlemeshev/">LinkedIn</a></td>
     <td style="text-align: center;"><a href="https://hackernoon.com/u/ivanlemeshev">HackerNoon</a></td>
-    <td style="text-align: center;"><a href="https://github.com/ivanlemeshev/homelab">![server_1439926](https://github.com/ivanlemeshev/ivanlemeshev/assets/2150567/ad4fe690-cfca-4af5-838a-146ecada1c0c) Homelab</a></td>
+    <td style="text-align: center;"><a href="https://github.com/ivanlemeshev/homelab">Homelab</a></td>
     </tr>
   </tbody>
 </table>
