@@ -33,6 +33,10 @@
   </table>
 </center>
 
+[![Sithub stats](https://github-readme-stats.vercel.app/api?username=ivanlemeshev&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/ivanlemeshev)
+
+[![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlemeshev&hide=php,ruby,HTML,css&theme=onedark&layout=compact)](https://github.com/ivanlemeshev)
+
 <!--
 **ivanlemeshev/ivanlemeshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
