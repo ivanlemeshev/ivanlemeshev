@@ -61,12 +61,6 @@ My name is Ivan and I'm a software developer from Finland.
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ivanlemeshev/count.svg?"/>
-</div>
-
-###
-
 <!--
 **ivanlemeshev/ivanlemeshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
