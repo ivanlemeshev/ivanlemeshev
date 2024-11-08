@@ -57,7 +57,7 @@ My name is Ivan and I'm a software developer from Finland.
 
 ###
 
-<img src="https://raw.githubusercontent.com/ivanlemeshev/ivanlemeshev/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/ivanlemeshev/ivanlemeshev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
