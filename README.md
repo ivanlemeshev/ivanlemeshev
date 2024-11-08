@@ -25,7 +25,7 @@ My name is Ivan and I'm a software developer from Finland.
 ###
 
 - ✨ Creating bugs since 2012
-- 📚 I'm currently learning Neovim, getting used to it, still playing with settings (check out my [dotfile](https://github.com/ivanlemeshev/dot))
+- 📚 I'm currently learning Neovim, getting used to it, still playing with settings (check out my [dotfiles](https://github.com/ivanlemeshev/dot))
 <!-- - 🎯 Goals: ... 
 - 🎲 Fun fact: ... -->
 
