@@ -21,6 +21,6 @@ Software developer based in Finland.
   I’m not.
 - 🔍 Interests: software development, programming languages, operating systems,
   software engineering, software architecture, distributed systems,
-  software design, game development
+  software design, devops, automation, game development
 
 ![Snake animation](https://github.com/ivanlemeshev/ivanlemeshev/blob/output/github-contribution-grid-snake-dark.svg)
