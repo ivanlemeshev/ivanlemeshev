@@ -9,7 +9,7 @@ Software developer based in Finland.
 
 - [LinkedIn](https://www.linkedin.com/in/ivanlemeshev/)
 - [HackerNoon](https://hackernoon.com/u/ivanlemeshev)
-- [Dotfiles](https://github.com/ivanlemeshev/dot) |
+- [Dotfiles](https://github.com/ivanlemeshev/dot)
 
 ## About
 
